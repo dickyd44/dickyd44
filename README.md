@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://media.tenor.com/WCf8OoN4BZAAAAAd/vinland-saga.gif" width="200" />
+<img src="https://media.tenor.com/WCf8OoN4BZAAAAAd/vinland-saga.gif](https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" width="200" />
 
 <!--
 **dickyd44/dickyd44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
